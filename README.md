@@ -11,9 +11,7 @@ A comprehensive archive of my Computer Science journey and skill development ove
 - **Key Topics:** Syntax, Control Flow, Arrays, and Basic OOP
 - **Status:** ✅ Completed
 
-### 🎓 [Year 2: Systems & Databases](./Year-2)
-*Deep diving into object-oriented structures and data management.*
-- **Current Focus:** Advanced Java, Database Systems (SQL), and Version Control (Git)
+### 🎓 Year 2
 - **Status:** 🏗️ In Progress
 
 ### 🎓 Year 3
