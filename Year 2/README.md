@@ -1,5 +1,5 @@
 # Year 2 Coding Logs
-รวมโปรเจกต์และงานที่ทำในช่วงชั้นปีที่ 2
+Collection of projects and assignments from my sophomore year.
 
-## รายชื่อโปรเจกต์
-* [Simple Order System](./Project/simple-order-system) - ระบบสั่งซื้อสินค้าอย่างง่าย (Spring Boot + SQLite)
+## Project List
+* [Simple Order System](./Project/simple-order-system) - Simple ordering system (Spring Boot + SQLite)
