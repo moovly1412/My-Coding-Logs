@@ -1,2 +1,2 @@
 ## Project List
-* [Simple Order System](./Project/simple-order-system) - Simple ordering system (Spring Boot + SQLite)
+* [Simple Order System](./simple-order-system) - Simple ordering system (Spring Boot + SQLite)
