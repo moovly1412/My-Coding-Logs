@@ -1,5 +1,10 @@
-# Year 2 Coding Logs
+# 🎓 Year 2 Coding Logs
 Collection of projects and assignments from my sophomore year.
 
-## Project List
-* [Simple Order System](./Project/simple-order-system) - Simple ordering system (Spring Boot + SQLite)
+---
+
+## 📁 Repository Structure
+* 📂 **[Project](./Project)** - Major projects and web applications.
+* 📝 **[Homework](./Homework)** - Class assignments and exercises.
+
+---
